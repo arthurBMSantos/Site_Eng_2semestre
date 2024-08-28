@@ -1,0 +1,13 @@
+body {
+        background-color: green;
+        color: black;
+}
+p{
+font-size: 24px;
+color: blue;
+font-weight: bold;
+}
+
+.texto{
+    color: azure;
+}
